@@ -1,7 +1,11 @@
 <h1 style="text-align:center; color:white; background:#222; padding:10px; border-radius:8px;">
   ServiceNow Report
 </h1>
-
+<hr>
+<h2 style="text-align:center; color:white; background:#222; padding:10px; border-radius:8px;">
+  Calculating Family Expenses using Service Now
+</h2>
+<hr>
 <h2 style="color:white; background:#333; padding:8px; border-radius:5px;">
   Team Details
 </h2>
