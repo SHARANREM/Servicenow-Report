@@ -50,11 +50,7 @@
 
 <div style="background:#111; padding:15px; border-radius:8px; color:white;">
   <p>📌 <b>Google Drive Video:</b> 
-     <a href="https://drive.google.com/file/d/19DzPvXHoUtsD8Zzt8BPrnfJWQhkZZopS/view?usp=sharing" 
-        style="color:#4DB8FF; text-decoration:none;" target="_blank">Click here to watch</a>
-  </p>
-  <p>📌 <b>YouTube Video:</b> 
-     <a href="https://youtu.be/Gn_Rw2OWFbI" 
+     <a href="[https://drive.google.com/file/d/19DzPvXHoUtsD8Zzt8BPrnfJWQhkZZopS/view?usp=sharing](https://drive.google.com/file/d/1JhW1xt0Un-Wj7ui1EFfAM_B922zY4wOx/view?usp=sharing)" 
         style="color:#4DB8FF; text-decoration:none;" target="_blank">Click here to watch</a>
   </p>
 </div>
